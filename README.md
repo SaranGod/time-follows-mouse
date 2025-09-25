@@ -11,6 +11,8 @@ As soon as you open the app, it will add a small time overlay below the mouse cu
 ### Current Roadmap
 I will be adding customisation options like color, background, font and placement.
 
+### Limitations
+This doesn't work for full screen apps (apps that are maximised using the green button) but it does work for apps that take up full desktop (double clicked on the top windows) and it also works with new desktops that you create
 
 ### Tip
 Add the app to your login items in the settings to auto open the app everytime you turn your computer on
