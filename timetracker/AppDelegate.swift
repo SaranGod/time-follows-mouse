@@ -16,8 +16,9 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         )
         window.isOpaque = false
         window.backgroundColor = .clear
-        window.level = .floating
+        window.level = .statusBar
         window.ignoresMouseEvents = true
+        window.collectionBehavior = [.canJoinAllSpaces, .canJoinAllApplications, .fullScreenAuxiliary, .auxiliary]
 
         // Add time label
         label = NSTextField(labelWithString: "")
