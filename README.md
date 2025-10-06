@@ -18,8 +18,7 @@ This doesn't work for full screen apps (apps that are maximised using the green 
 Add the app to your login items in the settings to auto open the app everytime you turn your computer on
 
 
-
-https://github.com/user-attachments/assets/456293cb-dda0-455c-8208-534ceb191041
+https://github.com/user-attachments/assets/8cce861a-b288-4c55-9850-dfd03b877dfc
 
 
 
