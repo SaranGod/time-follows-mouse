@@ -24,4 +24,4 @@ https://github.com/user-attachments/assets/8cce861a-b288-4c55-9850-dfd03b877dfc
 
 This is under active development. Please add feature requests to the issues tab.
 
-“This project is now proprietary. Prior open-source licensing is no longer valid as of 7th October, 2025.”
+This project is now proprietary. Prior open-source licensing is no longer valid as of 7th October, 2025.
