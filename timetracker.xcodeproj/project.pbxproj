@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		11C4B1592E851EBD0077AEC5 /* timetracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timetracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11C4B1592E851EBD0077AEC5 /* Time Follows Mouse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Time Follows Mouse.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		11C4B15A2E851EBD0077AEC5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				11C4B1592E851EBD0077AEC5 /* timetracker.app */,
+				11C4B1592E851EBD0077AEC5 /* Time Follows Mouse.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		11C4B1582E851EBD0077AEC5 /* timetracker */ = {
+		11C4B1582E851EBD0077AEC5 /* Time Follows Mouse */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 11C4B1682E851EBE0077AEC5 /* Build configuration list for PBXNativeTarget "timetracker" */;
+			buildConfigurationList = 11C4B1682E851EBE0077AEC5 /* Build configuration list for PBXNativeTarget "Time Follows Mouse" */;
 			buildPhases = (
 				11C4B1552E851EBD0077AEC5 /* Sources */,
 				11C4B1562E851EBD0077AEC5 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				11C4B15B2E851EBD0077AEC5 /* timetracker */,
 			);
-			name = timetracker;
+			name = "Time Follows Mouse";
 			packageProductDependencies = (
 			);
 			productName = timetracker;
-			productReference = 11C4B1592E851EBD0077AEC5 /* timetracker.app */;
+			productReference = 11C4B1592E851EBD0077AEC5 /* Time Follows Mouse.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				11C4B1582E851EBD0077AEC5 /* timetracker */,
+				11C4B1582E851EBD0077AEC5 /* Time Follows Mouse */,
 			);
 		};
 /* End PBXProject section */
@@ -259,6 +259,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Time Follows Mouse";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
@@ -290,6 +291,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Time Follows Mouse";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
@@ -319,7 +321,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		11C4B1682E851EBE0077AEC5 /* Build configuration list for PBXNativeTarget "timetracker" */ = {
+		11C4B1682E851EBE0077AEC5 /* Build configuration list for PBXNativeTarget "Time Follows Mouse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				11C4B1692E851EBE0077AEC5 /* Debug */,
